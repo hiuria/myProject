@@ -1,0 +1,100 @@
+.box{
+  width: 100%;
+  position: fixed;
+  top: 80px;
+  z-index: 99;
+}
+ul,li{
+  list-style: none;
+}
+ul>li{
+  float: left;
+}
+.fl{
+  float: left;
+}
+.box .title{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  background: #464646;
+}
+.title ul{
+  display: block;
+  height: 100%;
+  margin: 0 auto;
+  min-width: 800px;
+}
+.title ul>li{
+  height: 100%;
+  position: relative;
+  padding: 0 12px;
+  color: white;
+}
+.title ul>li>a{
+  display: block;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding: 6px 26px;
+}
+.title ul>li>a:hover{
+  text-decoration: underline;
+}
+.title .icon{
+  position: absolute;
+  bottom: 3px;
+  left:50%;
+  margin-left: -12px;
+  font-size: 24px;
+}
+.box .details{
+  width: 100%;
+  height: 262px;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  top: 50px;
+}
+.box .bg{
+  width: 100%;
+  height: 600px;
+  background-image: none;
+  background-color: rgba(0,0,0,.7);
+}
+.details ul{
+  overflow: hidden;
+  min-width: 912px;
+}
+.details ul li{
+  position: relative;
+  cursor: pointer;
+  height: 130px;
+}
+.details ul li:hover span{
+  text-decoration: underline;
+  color:#999;
+}
+.details ul li span{
+  display: block;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 15px;
+  font-size: 14px;
+}
+.details .line{
+  width: 100%;
+  height: 1px;
+  border-bottom: 1px solid #b7b7b7;
+}
+.child ul{
+  margin-left: 300px;
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}

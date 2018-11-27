@@ -1,0 +1,160 @@
+{
+  "male":[
+    {
+      "_id":0,
+      "name":"【男女同款】Chuck 70",
+      "price":799,
+      "pic":"src/assets/img/product1.png"
+    },
+    {
+      "_id":1,
+      "name":"【男女同款】Chuck 70",
+      "price":699,
+      "pic":"src/assets/img/product2.png"
+    },
+    {
+      "_id":2,
+      "name":"【男女同款】Chuck 70 Tech Hiker",
+      "price":769,
+      "pic":"src/assets/img/product3.png"
+    },
+    {
+      "_id":3,
+      "name":"【男女同款】Chuck 70",
+      "price":699,
+      "pic":"src/assets/img/product4.png"
+    },
+    {
+      "_id":4,
+      "name":"【男女同款】Chuck 70",
+      "price":639,
+      "pic":"src/assets/img/hot1.png"
+    },
+    {
+      "_id":5,
+      "name":"【男女同款】One Star",
+      "price":639,
+      "pic":"src/assets/img/hot2.png"
+    },
+    {
+      "_id":6,
+      "name":"【男女同款】One Star",
+      "price":599,
+      "pic":"src/assets/img/hot3.png"
+    },
+    {
+      "_id":7,
+      "name":"【男女同款】One Star",
+      "price":599,
+      "pic":"src/assets/img/hot4.png"
+    },
+    {
+      "_id":8,
+      "name":"【男女同款】Chuck 70",
+      "price":799,
+      "pic":"src/assets/img/female_product1.png"
+    },
+    {
+      "_id":9,
+      "name":"【男女同款】Chuck 70 Tech Hiker",
+      "price":769,
+      "pic":"src/assets/img/female_product2.png"
+    },
+    {
+      "_id":10,
+      "name":"【男女同款】Chuck 70",
+      "price":669,
+      "pic":"src/assets/img/female_product3.png"
+    },
+    {
+      "_id":11,
+      "name":"【男女同款】Chuck 70",
+      "price":699,
+      "pic":"src/assets/img/female_product4.png"
+    },
+    {
+      "_id":12,
+      "name":"【男女同款】Thuck Taylor All Star",
+      "price":469,
+      "pic":"src/assets/img/female_hot3.png"
+    },
+    {
+      "_id":13,
+      "name":"【男的】Converse Seasonal Down Puffer Jacket",
+      "price":1269,
+      "pic":"src/assets/img/clothes_product1.png"
+    },
+    {
+      "_id":14,
+      "name":"【男的】Converse Star Chevron Track Pullover Hoodie",
+      "price":469,
+      "pic":"src/assets/img/clothes_product2.png"
+    },
+    {
+      "_id":15,
+      "name":"【男的】Converse Down Bomber",
+      "price":1119,
+      "pic":"src/assets/img/clothes_product3.png"
+    },
+    {
+      "_id":16,
+      "name":"【男的】Concerse Essentials Reflective Star Chevron Fullzip Hood",
+      "price":599,
+      "pic":"src/assets/img/clothes_product4.png"
+    },
+    {
+      "_id":17,
+      "name":"【男女同款】Go Backpack",
+      "price":469,
+      "pic":"src/assets/img/bag_product1.png"
+    },
+    {
+      "_id":18,
+      "name":"【男女同款】Go Backpack",
+      "price":299,
+      "pic":"src/assets/img/bag_product2.png"
+    },
+    {
+      "_id":19,
+      "name":"【男女同款】Mini Backpack",
+      "price":439,
+      "pic":"src/assets/img/bag_product3.png"
+    },
+    {
+      "_id":20,
+      "name":"【男女同款】Full Ride Backpack",
+      "price":699,
+      "pic":"src/assets/img/bag_product4.png"
+    },
+    {
+      "_id":21,
+      "name":"【男女同款】Cross Body",
+      "price":219,
+      "pic":"src/assets/img/bag_hot1.png"
+    },
+    {
+      "_id":22,
+      "name":"【男女同款】Graphic Beanie",
+      "price":139,
+      "pic":"src/assets/img/bag_hot2.png"
+    },
+    {
+      "_id":23,
+      "name":"【男女同款】Graphic Baseball",
+      "price":139,
+      "pic":"src/assets/img/bag_hot3.png"
+    },
+    {
+      "_id":24,
+      "name":"【男女同款】Core Beanie",
+      "price":139,
+      "pic":"src/assets/img/bag_hot4.png"
+    },
+    {
+      "_id":25,
+      "name":"【男女同款】Thuck Taylor All Star",
+      "price":439,
+      "pic":"src/assets/img/female_hot4.png"
+    }
+  ]
+}

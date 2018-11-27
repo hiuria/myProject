@@ -1,0 +1,99 @@
+ul,li{
+  list-style: none;
+}
+.box{
+  height: 800px;
+}
+.header{
+  width: 100%;
+  height: 130px;
+  background: white;
+}
+.warn{
+  width: 100%;
+  background: #eee;
+  position: relative;
+  min-width: 870px;
+}
+.warn p{
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px 0;
+  color: black;
+}
+.warn span{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 15px;
+  bottom: 25px;
+  background: url('../assets/img/X-copy.png');
+  cursor: pointer;
+}
+.process{
+  width: 486px;
+  margin: 40px auto 34px;
+  text-align: center;
+  position: relative;
+}
+.process:before{
+  content: '';
+  width: 143px;
+  height: 1px;
+  border-bottom: 1px solid #b7b7b7;
+  position: absolute;
+  top:70%;
+  left: 91px;
+}
+.process:after{
+  content: '';
+  width: 143px;
+  height: 1px;
+  border-bottom: 1px solid #b7b7b7;
+  position: absolute;
+  top:70%;
+  right: 91px;
+}
+.process ul{
+  overflow: hidden;
+}
+.process ul li{
+  float: left;
+  width: 33.3%;
+  color: black;
+  font-size: 14px;
+}
+.process ul li p{
+  margin-bottom: 10px;
+}
+.process ul li i{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+.process ul li:nth-child(1) i{
+  background: url('../assets/img/gress.png');
+}
+.process ul li:nth-child(2) i{
+  background: url('../assets/img/null-gress.png');
+}
+.process ul li:nth-child(3) i{
+  background: url('../assets/img/null-gress.png');
+}
+.null{
+  font-size: 26px;
+  color: #333;
+  text-align: center;
+  padding-top: 30px;
+}
+.goshopping{
+  width: 198px;
+  height: 50px;
+  background: #b63330;
+  color: white;
+  font-size: 18px;
+  margin: 50px auto;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+}
