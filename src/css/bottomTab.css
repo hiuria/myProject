@@ -2,9 +2,8 @@ ul,li{
   list-style: none;
 }
 .header{
-  width: 92%;
+  width: 1000px;
   margin: 0 auto;
-  min-width: 1000px;
 }
 .all_type{
   margin-top: 70px;

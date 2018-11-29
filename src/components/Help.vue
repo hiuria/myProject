@@ -8,32 +8,32 @@
       <div class="tips">根据指南找到想要了解的功能，或者点击“联系我们”寻问客服。</div>
       <div class="question_type">
         <ul>
-          <li>
+          <router-link to="/home/account" tag="li">
             <i class="one"></i>账户
-          </li>
-          <li>
+          </router-link>
+          <router-link to="/home/order" tag="li">
             <i class="two"></i>订单
-          </li>
-          <li>
+          </router-link>
+          <router-link to="/home/size" tag="li">
             <i class="three"></i>尺码
-          </li>
-          <li>
+          </router-link>
+          <router-link to="/home/payment" tag="li">
             <i class="four"></i>支付方式
-          </li>
+          </router-link>
         </ul>
         <ul>
-          <li>
+          <router-link to="/home/return" tag="li">
             <i class="five"></i>退货和退款
-          </li>
-          <li>
+          </router-link>
+          <router-link to="/home/exchange" tag="li">
             <i class="six"></i>换货
-          </li>
-          <li>
+          </router-link>
+          <router-link to="/home/delivery" tag="li">
             <i class="seven"></i>配送
-          </li>
-          <li>
+          </router-link>
+          <router-link to="/home/contact" tag="li">
             <i class="eight"></i>联系我们
-          </li>
+          </router-link>
         </ul>
         <div class="more">
           <a href="#">查看全部常见问题</a>

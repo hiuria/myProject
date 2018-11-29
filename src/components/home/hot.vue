@@ -29,11 +29,11 @@
     </div>
     <div class="male all" v-show="num == 1">
       <div class="product classical">
-        <div>
+        <router-link to="/details" tag="div">
           <img src="../../assets/img/product1.png" alt="">
           <span class="name">【男女同款】Chuck 70</span>
           <span class="price">¥799.00</span>
-        </div>
+        </router-link>
         <div>
           <img src="../../assets/img/product2.png" alt="">
           <span class="name">【男女同款】Chuck 70</span>
@@ -355,6 +355,7 @@
   width: 25%;
   height: 300px;
   margin: 20px 0;
+  cursor: pointer;
 }
 .all .product>div>img{
   width: 165px;
